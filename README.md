@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Engr. Hassan Kamran | Technical Project Manager | AI Researcher | Engineer
 
-<!--
-**hassan-kamran/hassan-kamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Hassan Kamran, a technical project manager, AI researcher, and engineer with experience spanning AI development, federated learning, embedded systems, and military operations. I thrive on solving complex problems and delivering impactful solutions.
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://engrhassankamran.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Skills & Tools**
+
+- **Programming:** Python, C/C++, JavaScript, SQL, Bash
+- **AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn
+- **Big Data:** Apache Spark, Hadoop, Kafka
+- **DevOps:** Docker, Jenkins, AWS, Terraform
+- **Design/Modeling:** Blender, FreeCAD, ROS, Gazebo, KiCad
+
+---
+
+## 🔬 **Research & Projects**
+
+- **Federated Learning for Diabetic Retinopathy Classification**
+  - Privacy-preserving framework with GANs and differential privacy.
+- **Tele-Operated Sprayer Drone for Precision Agriculture**
+  - CAD modeling, ROS simulation, and field trials for precision farming.
+
+---
+
+## 🎓 **Education**
+
+- **M.Sc. Computer Science** *(Sir Syed CASE Institute of Technology)* (Expected Dec 2024)  
+- **B.E. Mechatronics** *(NUST)* (2019)  
+
+---
+
+## 🏆 **Certifications**
+
+- **Deep Learning Specialization** *(DeepLearning.AI)*  
+- **Registered Engineer** *(Pakistan Engineering Council)*  
+
+---
+
+📈 *Explore my repositories to see my work in AI, robotics, and more. Let's connect and build something amazing!*
