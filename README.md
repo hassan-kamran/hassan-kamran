@@ -8,10 +8,10 @@ Hi there! I'm Hassan Kamran, a technical project manager, AI researcher, and eng
 
 ## 🛠️ **Skills & Tools**
 
-- **Programming:** Python, C/C++, JavaScript, SQL, Bash
+- **Programming:** Python, C/C++, JavaScript, HTML, CSS, SQL, Bash
 - **AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn
-- **Big Data:** Apache Spark, Hadoop, Kafka
-- **DevOps:** Docker, Jenkins, AWS, Terraform
+- **DevOps:** Docker, AWS, Azure, Terraform
+- **Web:** React, Strapi
 - **Design/Modeling:** Blender, FreeCAD, ROS, Gazebo, KiCad
 
 ---
