@@ -27,7 +27,7 @@ Hi there! I'm Hassan Kamran, a technical project manager, AI researcher, and eng
 
 ## 🎓 **Education**
 
-- **M.Sc. Computer Science** *(Sir Syed CASE Institute of Technology)* (Expected Dec 2024)  
+- **M.Sc. Computer Science** *(Sir Syed CASE Institute of Technology)* (2025)  
 - **B.E. Mechatronics** *(NUST)* (2019)  
 
 ---
