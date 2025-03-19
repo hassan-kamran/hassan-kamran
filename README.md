@@ -25,7 +25,7 @@ Leveraging expertise in artificial intelligence, machine learning, and full-stac
 - Managed cross-functional development teams ensuring consistent delivery milestones
 - Successfully delivered high-value projects for enterprise clients including AWT and FerroTechnics
 
-### Captain & Operations Leader in Pakistan Army *(Oct 2020 - Sep 2023)*
+### Captain in Pakistan Army *(Oct 2020 - Sep 2023)*
 - Directed technical operations ensuring mission-critical equipment readiness
 - Led and mentored teams of 100+ technical specialists in high-pressure environments
 - Implemented rigorous compliance protocols for operational safety and regulatory standards
