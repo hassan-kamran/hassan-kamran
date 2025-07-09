@@ -12,22 +12,24 @@ Engineering professional with **5+ years of technical leadership** in workshop m
 
 ## 💼 Professional Experience
 
-### 🎯 **Founder & CTO** at [Big0.dev](https://big0.dev) *(Nov 2025 - Present)*
+### 🎯 **Founder & CTO** at [Big0.dev](https://big0.dev) *(July 2025 - Present)*
 - Founded technology consultancy specializing in **AI/ML & IoT solutions**
 - Developing custom analytics & automation platforms for enterprise clients
 - Architecting scalable cloud-native applications with microservices
 
-### 🏢 **Project Manager & Tech Lead** at CyberX Studio *(Nov 2023 - Nov 2025)*
-- Led full-stack development for **10+ enterprise clients** including AWT, FerroTechnics, Emerald IT
+### 🏢 **Project Manager & Tech Lead** at CyberX Studio *(Nov 2023 - July 2025)*
+- Led website development for **AWT, FerroTechnics, CyberX Soft, Emerald IT, Laptop Rental AU, Yontem Teknoloji, Guide to Pakistan, Rawaan Pakistan** & other clients
 - Built **real-time KPI dashboards** and analytics solutions for One World Rental
-- Managed cross-functional teams of **10-15 developers** using Agile/Scrum methodologies
-- Modernized legacy systems and deployed internal automation tools
+- Developed & deployed internal automation tools and modernized legacy websites & systems
+- Managed cross-functional teams of **10-15 developers & support staff** using Agile/Scrum methodologies
+- Created technical roadmaps & secured stakeholder approval for projects
 
 ### 🎖️ **Captain (Workshop Officer)** - Pakistan Army, EME Corps *(Oct 2020 - Oct 2023)*
 - Supervised vehicle & equipment maintenance operations for critical military assets
-- Managed team of **50+ technical personnel** and complex maintenance schedules
-- Implemented safety improvements and conducted compliance audits
-- Served at 162 C Troops Workshop Company & 195 Independent Workshop Company
+- Managed team of **50+ technical personnel** and maintenance schedules
+- Conducted compliance audits & implemented safety improvements
+- Coordinated maintenance workflows & resource planning
+- Served at **162 C Troops Workshop Company (2020)** & **195 Independent Workshop Company (2022)**
 
 ---
 
@@ -47,9 +49,11 @@ Tools:          Git, Agile/Scrum, Technical Documentation
 
 ## 🎓 Education & Certifications
 
-**🎓 Master of Science in Computer Science** - Sir Syed CASE Institute of Technology *(2025)*  
-**🎖️ Officer Training** - Pakistan Military Academy *(2020)*  
-**🔧 Bachelor of Engineering in Mechatronics** - NUST *(2019)*
+**🎓 Master of Science in Computer Science** - Sir Syed CASE Institute of Technology *(Apr 2025)*  
+**🎖️ Officer Training** - Pakistan Military Academy *(Oct 2020)*  
+**🔧 Bachelor of Engineering in Mechatronics** - National University of Science & Technology *(July 2019)*  
+**📚 Advanced Level (A Levels)** - St Mary's Academy *(July 2014)*  
+**📖 Ordinary Level (O Levels)** - Beacon House School System *(July 2012)*
 
 ### 📜 Professional Certifications
 - **Generative AI Application Developer** - Pakistan Engineering Council *(2025)*
@@ -76,40 +80,14 @@ Innovative UAV solution for precision agriculture applications
 
 ---
 
-## 📊 GitHub Stats
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-kamran&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-kamran&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 AI/ML Solutions
-- **Federated GANs for Medical Imaging** - Privacy-preserving distributed learning
-- **Computer Vision Analytics** - Real-time object detection and tracking
-- **NLP Automation Tools** - Text processing and sentiment analysis
-
-### 🌐 Web Applications
-- **Enterprise Dashboards** - Real-time KPI visualization and analytics
-- **E-commerce Platforms** - Full-stack solutions with payment integration
-- **IoT Monitoring Systems** - Cloud-based device management and data visualization
-
-### 🚁 Hardware Projects
-- **Agricultural Drone Systems** - Autonomous spraying and crop monitoring
-- **Embedded IoT Devices** - Sensor networks and automation controllers
-
 ---
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative projects, especially in:
-- **Artificial Intelligence & Machine Learning**
-- **IoT and Embedded Systems**
-- **Full-Stack Web Development**
-- **Enterprise Solutions Architecture**
+I'm always interested in collaborating on innovative projects, especially in Artificial Intelligence & Machine Learning, IoT and Embedded Systems, Full-Stack Web Development, and Enterprise Solutions Architecture.
 
-**📧 Email:** [hassan@big0.dev](mailto:hassan@big0.dev)  
+**📧 Email:** [contact@big0.dev](mailto:contact@big0.dev)  
+**📱 Phone:** +92 303 9441945  
 **🌐 Website:** [capt.pk](https://capt.pk)  
 **💼 LinkedIn:** [engr-hassan-kamran](https://linkedin.com/in/engr-hassan-kamran)
 
