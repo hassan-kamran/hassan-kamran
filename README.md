@@ -68,7 +68,7 @@ Innovative UAV solution for precision agriculture applications
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative projects:
+I'm always interested in collaborating on innovative projects.
 
 **📧 Email:** [contact@big0.dev](mailto:contact@big0.dev)  
 **📱 Phone:** +92 303 9441945  
