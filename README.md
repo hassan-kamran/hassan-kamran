@@ -12,12 +12,12 @@ Engineering professional with **5+ years of technical leadership** in workshop m
 
 ## 💼 Professional Experience
 
-### 🎯 **Founder & CTO** at [Big0.dev](https://big0.dev) *(July 2025 - Present)*
+### 🎯 **Founder & CTO** at [Big0.dev](https://big0.dev) *(Nov 2025 - Present)*
 - Founded technology consultancy specializing in **AI/ML & IoT solutions**
 - Developing custom analytics & automation platforms for enterprise clients
 - Architecting scalable cloud-native applications with microservices
 
-### 🏢 **Project Manager & Tech Lead** at CyberX Studio *(Nov 2023 - July 2025)*
+### 🏢 **Project Manager & Tech Lead** at CyberX Studio *(Nov 2023 - Nov 2025)*
 - Led website development for **AWT, FerroTechnics, CyberX Soft, Emerald IT, Laptop Rental AU, Yontem Teknoloji, Guide to Pakistan, Rawaan Pakistan** & other clients
 - Built **real-time KPI dashboards** and analytics solutions for One World Rental
 - Developed & deployed internal automation tools and modernized legacy websites & systems
@@ -30,20 +30,6 @@ Engineering professional with **5+ years of technical leadership** in workshop m
 - Conducted compliance audits & implemented safety improvements
 - Coordinated maintenance workflows & resource planning
 - Served at **162 C Troops Workshop Company (2020)** & **195 Independent Workshop Company (2022)**
-
----
-
-## 🛠️ Technology Stack
-
-```yaml
-Languages:      Python, JavaScript/TypeScript, C++, SQL
-AI/ML:          TensorFlow, PyTorch, Computer Vision, NLP, GANs
-Web Dev:        React, Node.js, Express, RESTful APIs
-Cloud:          AWS, Azure, Docker, Microservices, CI/CD
-Databases:      PostgreSQL, MongoDB, Redis
-IoT/Hardware:   Arduino, Raspberry Pi, Embedded Systems
-Tools:          Git, Agile/Scrum, Technical Documentation
-```
 
 ---
 
@@ -68,7 +54,7 @@ Tools:          Git, Agile/Scrum, Technical Documentation
 **📖 [FedGAN: Federated Diabetic Retinopathy Image Generation](https://journals.plos.org/plosone/)** - *PLOS ONE*  
 Novel federated learning approach for privacy-preserving medical image generation
 
-**🚁 Low Cost Agricultural Sprayer Drone Development** - *IEEE Xplore (Submitted)*  
+**🚁 [Low Cost Agricultural Sprayer Drone Development](https://ieeexplore.ieee.org/)** - *IEEE Xplore*  
 Innovative UAV solution for precision agriculture applications
 
 ---
@@ -80,17 +66,11 @@ Innovative UAV solution for precision agriculture applications
 
 ---
 
----
-
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative projects, especially in Artificial Intelligence & Machine Learning, IoT and Embedded Systems, Full-Stack Web Development, and Enterprise Solutions Architecture.
+I'm always interested in collaborating on innovative projects:
 
 **📧 Email:** [contact@big0.dev](mailto:contact@big0.dev)  
 **📱 Phone:** +92 303 9441945  
 **🌐 Website:** [capt.pk](https://capt.pk)  
 **💼 LinkedIn:** [engr-hassan-kamran](https://linkedin.com/in/engr-hassan-kamran)
-
----
-
-*"Transforming complex engineering challenges into strategic technological advantages through innovative AI-driven solutions."*
